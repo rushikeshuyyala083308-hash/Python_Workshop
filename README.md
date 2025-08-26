@@ -29,7 +29,3 @@ Each day has **10 beginner-friendly programs** with code and explanations.
 
 ---
 
-## 🔗 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/python-workshop-100-days.git
